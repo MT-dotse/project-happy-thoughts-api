@@ -1,6 +1,6 @@
 # Project Happy Thoughts API Backend ❤️💌
 
-The aim of this week was to build a Happy Thoughts API using Express and MongoDB including both GET request enpoints that return data and POST endpoints to create data. This was done by creating a Thought Mongoose Schema and Model that represents the structure and holds properties for the message string, a heart property for tracking the number of likes, and a createdAt property to store when the thought was added.
+I built a Happy Thoughts API using Express and MongoDB in Node that included both GET and POST endpoints. I created a Thought Mongoose Schema and Model that represents the structure and holds properties for the message string, a heart property for tracking the number of likes, and a createdAt property to store when the thought was added.
 
 
 ## Documentation
